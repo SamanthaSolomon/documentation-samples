@@ -1,8 +1,3 @@
----
-title: User Defined Fields with the API
-sidebar: sidebar/users.json
----
-
 # User Defined Fields with the API
 
 Several API resources for our [v2 REST API](https://api.subscribepro.com/docs/rest) have a `user-defined-fields` attribute. You can make GET requests to find UDFs and POST/PATCH requests to set or update UDFs:

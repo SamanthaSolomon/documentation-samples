@@ -1,12 +1,8 @@
----
-title: User Defined Field Example Scenario
-sidebar: sidebar/users.json
----
 # User Defined Field Example Scenario
 
 You are a supplement distributor for animal athletes. You want to include the type of animal the product is for on all subscriptions. Most of your customer-base owns horses. 
 
-Since you want to include the animal-type on every subscription entity, you set up a [UDF Definition](/users/configuration/user-defined-fields/user-defined-field-definitions/). The Field Name is "Animal Type", the Entity Type is "Subscription"
+Since you want to include the animal-type on every subscription entity, you set up a [UDF Definition](/user-defined-field-definitions.md). The Field Name is "Animal Type", the Entity Type is "Subscription"
 
 <docs-image src="/images/udf_definition_field_code_entity_type.png" title="UDF Definition with Field Code and Entity Type" shadow=true max-width="800px" rounded-corners=true></docs-image>
 

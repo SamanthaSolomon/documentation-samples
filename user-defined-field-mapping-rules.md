@@ -1,7 +1,3 @@
----
-title: User Defined Field Mapping Rules
-sidebar: sidebar/users.json
----
 # User Defined Field Mapping Rules
 
 If you use Sales Force Commerce Cloud (SFCC), Subscribe Pro provides UDF Mapping Rules to integrate UDF's with SFCC. These mapping rules allow you copy UDF data from SubscribePro into record attributes in SFCC. Navigate to **_Environment Settings > User-Defined Mapping Rules > New or Edit_** to create a new rule.

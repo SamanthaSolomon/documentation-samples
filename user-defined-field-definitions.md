@@ -1,7 +1,3 @@
----
-title: User Defined Field Definitions
-sidebar: sidebar/users.json
----
 # User Defined Field Definitions
 
 User Defined Field (UDF) Definitions allow you to structure and organize your User Defined Fields. With UDF Definitions, you can set data formats, default values, and validation rules for each UDF. This ensures that the data in your UDF fields can be compatible with your ecommerce store. 
@@ -14,8 +10,8 @@ Configure a new or edit and existing UDF Definition by navigating to **_Environm
 |-----------|---|
 |Field Code| Unique string that must be at least 4 characters long|
 |Entity Type| The entity type this rule will be assigned to. UDFs are available on Customer, Customer Address, Subscription, Group Subscription, and Product entities.
-|Field Type| The type of field that best supports the data. This is the type of UI element used to input that UDF value. [See available Field- and Data-Type pairings](/users/configuration/user-defined-fields/user-defined-fields-ui/).|
-|Data Type| Data type for UDF Value. This controls how the data is sent and received by SubscribePro. [See available Field- and Data-Type pairings](/users/configuration/user-defined-fields/user-defined-fields-ui/).|
+|Field Type| The type of field that best supports the data. This is the type of UI element used to input that UDF value. [See available Field- and Data-Type pairings](/user-defined-fields-ui.md).|
+|Data Type| Data type for UDF Value. This controls how the data is sent and received by SubscribePro. [See available Field- and Data-Type pairings](/user-defined-fields-ui.md).|
 |Validate Date| Choose if data will be validated before saving.|
 |Default Value| Set a default value for the UDF|
 |Populate Default| Choose if UDF will be automatically populated on new instances of the assigned entity. Existing instances will not be updated with the new UDF.|

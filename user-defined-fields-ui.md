@@ -1,8 +1,3 @@
----
-title: User Defined Fields in the UI
-sidebar: sidebar/users.json
----
-
 # User Defined Fields in the UI
 
 UDFs are currently available on the following entities:
@@ -35,6 +30,6 @@ UDFs accept a unique Field Code (or UDF name), a Field Type, and a value. Values
 
 ## Validation
 
-If the UDF field has a been configured through a [UDF Definition](/users/configuration/user-defined-fields/user-defined-field-definitions/) with the "Validate Data" setting, SubscribePro will check that the data is in a valid format before allowing you to save.
+If the UDF field has a been configured through a [UDF Definition](/user-defined-field-definitions.md) with the "Validate Data" setting, SubscribePro will check that the data is in a valid format before allowing you to save.
 
 
